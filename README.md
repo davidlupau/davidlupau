@@ -18,10 +18,6 @@ As I continue to explore the vast and varied landscapes of data science, my prim
 
 Looking forward to connecting with fellow data enthusiasts and professionals in the field!
 
----
-
-Feel free to adjust or add any additional information as you see fit. This draft is a starting point to introduce you and your aspirations on GitHub. As you progress in your data science journey, you can update and expand your profile README to reflect new skills, projects, and experiences.
-
 <!---
 davidlupau/davidlupau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
