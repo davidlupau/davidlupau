@@ -8,7 +8,7 @@ Currently, I am enrolled in a BSc in Data Science, where my journey began with a
 #### 💻 Current Projects
 - **Habit Tracker App**: Developed a Habit Tracker App. This project is a practical application of my growing skills in Python and SQL, allowing me to explore data collection and analysis in everyday life.
 - **Data Mart in SQL**: Developed and documented an entity relationship model (ERM) and a normalized SQL database for an Airbnb-like rental platform.
-- **Machine Learning**: I am currently learning about SUpervised and Unsupervised Machine Learning.
+- **Machine Learning**: I am currently learning about Supervised and Unsupervised Machine Learning.
 
 #### 🎯 Future Goals
 As I continue to explore the vast and varied landscapes of data science, my primary goal is to evolve into a proficient Data Scientist. I am particularly fascinated by the diverse disciplines and skills involved in data science and am eager to apply my knowledge across different business domains.
