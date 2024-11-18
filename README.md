@@ -11,7 +11,7 @@ Currently, I am enrolled in a BSc in Data Science, where my journey began with a
 - **Machine Learning**: I am currently learning about Supervised and Unsupervised Machine Learning.
 
 #### 🎯 Future Goals
-As I continue to explore the vast and varied landscapes of data science, my primary goal is to evolve into a proficient Data Scientist. I am particularly fascinated by the diverse disciplines and skills involved in data science and am eager to apply my knowledge across different business domains.
+As I continue to explore the vast and varied landscapes of data science, my primary goal is to evolve into a proficient Data Scientist. I am particularly fascinated by the diverse disciplines and skills involved in data science and am eager to apply my knowledge across different business domains. I just wrapped up a project about analysing data from a survey about Mental Health and I am currently building a model that classifies item from an e-shop into categories.
 
 #### 🤝 Connect with Me
 - **LinkedIn**: [profile](https://www.linkedin.com/in/david-lupau/)
