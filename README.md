@@ -8,7 +8,7 @@ Currently, I am enrolled in a BSc in Data Science, where my journey began with a
 #### 💻 Current Projects
 - **Habit Tracker App**: Developed a Habit Tracker App. This project is a practical application of my growing skills in Python and SQL, allowing me to explore data collection and analysis in everyday life.
 - **Data Mart in SQL**: Developed and documented an entity relationship model (ERM) and a normalized SQL database for an Airbnb-like rental platform.
-- **Machine Learning**: I am currently learning about Supervised and Unsupervised Machine Learning.
+- **Machine Learning**: I am currently learning about Supervised and Unsupervised Machine Learning with two projects completed and learning more about Neural Networks.
 
 #### 🎯 Future Goals
 As I continue to explore the vast and varied landscapes of data science, my primary goal is to evolve into a proficient Data Scientist. I am particularly fascinated by the diverse disciplines and skills involved in data science and am eager to apply my knowledge across different business domains. I just wrapped up a project about analysing data from a survey about Mental Health and I am currently building a model that classifies item from an e-shop into categories.
@@ -16,6 +16,8 @@ As I continue to explore the vast and varied landscapes of data science, my prim
 #### 🤝 Connect with Me
 - **LinkedIn**: [profile](https://www.linkedin.com/in/david-lupau/)
 - **X**: [@DLupau](https://twitter.com/DLupau)
+
+#### 💼 **[Portfolio](https://spectacular-fish-295.notion.site/1a79cd79840a8068a849dc481d0b67cf?v=1a79cd79840a80689e0a000c6c508658)**
 
 Looking forward to connecting with fellow data enthusiasts and professionals in the field!
 
