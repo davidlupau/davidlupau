@@ -15,7 +15,7 @@ As I continue to explore the vast and varied landscapes of data science, my prim
 
 #### 🤝 Connect with Me
 - **LinkedIn**: [profile](https://www.linkedin.com/in/david-lupau/)
-- **X**: [@DLupau](https://twitter.com/DLupau)
+- **My website**: [www.davidlupau.eu](https://www.davidlupau.me/)
 
 #### 💼 **[Portfolio](https://spectacular-fish-295.notion.site/1a79cd79840a8068a849dc481d0b67cf?v=1a79cd79840a80689e0a000c6c508658)**
 
