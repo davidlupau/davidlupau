@@ -1,25 +1,49 @@
-### Hi there, I'm David Lupau 👋
+# David Lupau
 
-I'm an experienced professional with over 20 years in Learning and Development (LnD), deeply passionate about AI and new technologies. In February 2023, I embarked on an exciting career change, diving into the world of Data Science. With a rich background in managing extensive learning program data, I've developed a keen interest in unlocking the vast potential hidden within data through careful analysis and application.
+**Data Analyst | Python, SQL & Power BI**
 
-#### 📚 Academic Journey & Skills Development
-Currently, I am enrolled in a BSc in Data Science, where my journey began with an immersive dive into mathematics and statistics. I've recently ventured into learning Python and SQL, finding both the challenge and the practical application of these languages incredibly rewarding. The transition from theory to practice in data science has been a thrilling part of my learning journey.
+Turning data into actionable insights through statistical analysis, visualization, and automation. Experienced in analyzing program effectiveness, building dashboards, and solving operational challenges with data-driven solutions.
 
-#### 💻 Current Projects
-- **Habit Tracker App**: Developed a Habit Tracker App. This project is a practical application of my growing skills in Python and SQL, allowing me to explore data collection and analysis in everyday life.
-- **Data Mart in SQL**: Developed and documented an entity relationship model (ERM) and a normalized SQL database for an Airbnb-like rental platform.
-- **Machine Learning**: I am currently learning about Supervised and Unsupervised Machine Learning with two projects completed and learning more about Neural Networks.
+## What I Do
 
-#### 🎯 Future Goals
-As I continue to explore the vast and varied landscapes of data science, my primary goal is to evolve into a proficient Data Scientist. I am particularly fascinated by the diverse disciplines and skills involved in data science and am eager to apply my knowledge across different business domains. I just wrapped up a project about analysing data from a survey about Mental Health and I am currently building a model that classifies item from an e-shop into categories.
+I work with diverse datasets, from survey responses to operational metrics, applying statistical methods and visualization techniques to uncover patterns and support decision-making. My projects include longitudinal studies, machine learning applications, and automated reporting systems.
 
-#### 🤝 Connect with Me
-- **LinkedIn**: [profile](https://www.linkedin.com/in/david-lupau/)
-- **My website**: [www.davidlupau.eu](https://www.davidlupau.me/)
+**Technical Skills:** Python (Pandas, Matplotlib, Seaborn, Plotly) | SQL | Power BI | Google Looker Studio | Statistical Analysis | Machine Learning | Data Visualization
 
-#### 💼 **[Portfolio](https://spectacular-fish-295.notion.site/1a79cd79840a8068a849dc481d0b67cf?v=1a79cd79840a80689e0a000c6c508658)**
+## Featured Projects
 
-Looking forward to connecting with fellow data enthusiasts and professionals in the field!
+**Leadership Program Impact Analysis**  
+5-year longitudinal analysis of satisfaction and enrollment data supporting executive decision-making on program continuation. Multi-dimensional analysis across regions and cohorts.  
+*Tools: Python, Pandas, Power BI*
+
+**Mental Health in Tech: Unsupervised Learning Analysis**  
+Applied clustering and dimensionality reduction techniques to survey data, identifying patterns in mental health attitudes and workplace support across the tech industry.  
+*Tools: Python, Scikit-learn, Statistical Analysis*
+
+**French Presidential Elections 2022**  
+Geographic analysis of voting patterns across 101 departments, revealing political clustering and correlation between abstention and extremism.  
+*Tools: Python, Plotly, Statistical Analysis*
+
+[📊 View Full Portfolio](https://www.notion.so/1a79cd79840a8068a849dc481d0b67cf?v=27e9cd79840a8059af3b000c262bda61&source=copy_link)
+
+## Current Focus
+
+- Completing IBM Data Analyst Professional Certificate
+- BSc Data Science at IU International University
+- Building Power BI dashboards and preparing for Microsoft PL-300 certification
+
+## Background
+
+Two decades of professional experience provided extensive work with data analysis, program evaluation, and stakeholder reporting. Now applying formal data science training to deepen technical capabilities in statistical analysis, machine learning, and advanced analytics.
+
+## Connect
+
+- LinkedIn: [in/david-lupau](https://linkedin.com/in/david-lupau)
+- Website: [davidlupau.eu](https://www.davidlupau.eu)
+
+---
+
+*Open to remote data analyst opportunities across industries.*
 
 <!---
 davidlupau/davidlupau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
